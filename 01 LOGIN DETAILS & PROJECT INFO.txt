@@ -5,7 +5,7 @@
 **Developed by Martin simel**
 
 **Recommended PHP Version 5.6 and Newer**
-
+clean city
 
 **Admin Panel: /admin_area **
 
